@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NIXML><TraktorSettings><Entry Name="Audio.ChannelFX.1.Type" Type="1" Value="0"></Entry>
+<Entry Name="Audio.ChannelFX.2.Type" Type="1" Value="1"></Entry>
+<Entry Name="Audio.ChannelFX.3.Type" Type="1" Value="2"></Entry>
+<Entry Name="Audio.ChannelFX.4.Type" Type="1" Value="3"></Entry>
+<Entry Name="Audio.FX.Selection" Type="5" Value="13;19;1;2;3;17;14;29;7;8;9;10;11;12;4;5;6;15;16;18;28;25;24;26;27;31;32;33;34;35;36;37;42;58;59;74;76;87;56;89;84;62;85"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX1" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX10" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX11" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX12" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX13" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX14" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX15" Type="5" Value="0;1;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX16" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX17" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX18" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX19" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX2" Type="5" Value="0;1;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX24" Type="5" Value="0;1;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX25" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX26" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX27" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX28" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX29" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX3" Type="5" Value="0;1;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX31" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX32" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX33" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX34" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX35" Type="5" Value="0;1;0;0;1"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX36" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX37" Type="5" Value="0;0;1;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX4" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX42" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX5" Type="5" Value="0;1;1;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX56" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX58" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX59" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX6" Type="5" Value="0;1;1;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX62" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX7" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX74" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX76" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX8" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX84" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX85" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX87" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX89" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_BUTTON_FX9" Type="5" Value="0;0;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX1" Type="6" Value="0;0.372549;0.498039;0.501961;0.501961"></Entry>
+<Entry Name="DEFAULT_PARAM_FX10" Type="6" Value="0.501961;0.619608;0.745098;0.498039;0.505882"></Entry>
+<Entry Name="DEFAULT_PARAM_FX11" Type="6" Value="0;1;0.501961;0.501961;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX12" Type="6" Value="0.202247;1;0.501961;0;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX13" Type="6" Value="0.65;0.49975;0.5;0.5;0.5"></Entry>
+<Entry Name="DEFAULT_PARAM_FX14" Type="6" Value="0.69;0.6;0.65;0.69;0.31"></Entry>
+<Entry Name="DEFAULT_PARAM_FX15" Type="6" Value="1;0.498039;1;0.501961;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX16" Type="6" Value="0.6;0.498039;0.498039;0.498039;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX17" Type="6" Value="0;0.3;0.35;0.7;0.3"></Entry>
+<Entry Name="DEFAULT_PARAM_FX18" Type="6" Value="0.3;0.498039;0.752941;0.498039;0.501961"></Entry>
+<Entry Name="DEFAULT_PARAM_FX19" Type="6" Value="0.202247;0.574255;0.361993;0.5;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX2" Type="6" Value="0.501961;0.501961;0.501961;0.505882;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX24" Type="6" Value="0;0;0.498039;0;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX25" Type="6" Value="0;0.498039;0.498039;1;0.501961"></Entry>
+<Entry Name="DEFAULT_PARAM_FX26" Type="6" Value="0.55;0.501961;0.501961;0.498039;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX27" Type="6" Value="0.501961;0.498039;1;0;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX28" Type="6" Value="0;0.498039;0.541176;0.498039;0.498039"></Entry>
+<Entry Name="DEFAULT_PARAM_FX29" Type="6" Value="0.5;0.541176;0.498039;0.498039;0.501961"></Entry>
+<Entry Name="DEFAULT_PARAM_FX3" Type="6" Value="0.5;0.498039;1;0;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX31" Type="6" Value="0;0;0;0;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX32" Type="6" Value="0;0.501961;0.498039;0.501961;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX33" Type="6" Value="0;0.498039;0;0;0.501961"></Entry>
+<Entry Name="DEFAULT_PARAM_FX34" Type="6" Value="0;0.498039;0.501961;0.501961;0.498039"></Entry>
+<Entry Name="DEFAULT_PARAM_FX35" Type="6" Value="0;0.65;0.9;0.69;0.55"></Entry>
+<Entry Name="DEFAULT_PARAM_FX36" Type="6" Value="0;0;0.501961;0.501961;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX37" Type="6" Value="0;0.498039;1;0.501961;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX4" Type="6" Value="0.498039;0.341176;0;0.498039;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX42" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX5" Type="6" Value="0.501961;0.698039;0.501961;0.501961;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX56" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX58" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX59" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX6" Type="6" Value="0.501961;0.498039;0.501961;0;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX62" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX7" Type="6" Value="0.498039;0.635294;0.501961;0.501961;0.498039"></Entry>
+<Entry Name="DEFAULT_PARAM_FX74" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX76" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX8" Type="6" Value="0;1;0.6;0.509804;1"></Entry>
+<Entry Name="DEFAULT_PARAM_FX84" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX85" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX87" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX89" Type="6" Value="0.5;0.5;0;0;0"></Entry>
+<Entry Name="DEFAULT_PARAM_FX9" Type="6" Value="0.3;1;0.498039;0;1"></Entry>
+<Entry Name="Flavour" Type="1" Value="1"></Entry>
+<Entry Name="Status.4 FX Units" Type="5" Value="1"></Entry>
+<Entry Name="Status.Effect 1 Select" Type="5" Value="0;0;0;0"></Entry>
+<Entry Name="Status.Effect 2 Select" Type="5" Value="0;0;1;0"></Entry>
+<Entry Name="Status.Effect 3 Select" Type="5" Value="0;0;14;0"></Entry>
+<Entry Name="Status.Effect Routing" Type="5" Value="2;2;2;2"></Entry>
+<Entry Name="Status.FX Panel Mode" Type="5" Value="0;0;1;1"></Entry>
+<Entry Name="Status.FX Restore Preset on Switch" Type="5" Value="0"></Entry>
+<Entry Name="Version" Type="1" Value="3"></Entry>
+</TraktorSettings>
+</NIXML>
