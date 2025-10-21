@@ -1,12 +1,11 @@
 # Replacement screens for Traktor S4 mk3
----
 
 I'll update this README over time, but please read the instructions in the included PDF as it contains important information for importing everything correctly.
 
 I've kept both versions of the hack for compatibility reasons, but I won't be working on the Traktor 3 ones at all. Only TP4 will be updated.
 
 ## Installation
----
+
 **Installing the screen mod**
 1. Navigate to your Traktor installation folder. Replace {number} below with either 3 or 4, depending on which version you have installed
     - Windows: `C:\Program Files\Native Instruments\Traktor Pro {number}\Resources64\`
@@ -23,7 +22,7 @@ I've kept both versions of the hack for compatibility reasons, but I won't be wo
 2. Click "Import" at the bottom of the window, and select the `Screen Hack Effect Settings.tsi` file from this repo
 
 ## Configuration
----
+
 There's a collection of settings that have been consolidated to a single file to make it easy to access. There's comments in the file itself that should be pretty self-explanatory.
 
 `C:\Program Files\Native Instruments\Traktor Pro 4\qml\Screens\Defines\Settings.qml`
