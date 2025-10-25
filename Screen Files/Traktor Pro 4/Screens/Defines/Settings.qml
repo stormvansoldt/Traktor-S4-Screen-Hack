@@ -100,14 +100,14 @@ QtObject {
 	readonly property int		deckDWaveformColour:	0
 		
 	//0 = Red, 1 = Dark Orange, 2 = Light Orange, 3 = White, 4 = Yellow, 5 = Lime, 6 = Green, 7 = Mint, 8 = Cyan, 9 = Turquoise, 10 = Blue, 11 = Plum, 12 = Violet, 13 = Purple, 14 = Magenta, 15 = Fuchsia, 16 = Black, 17 = Warm Yellow
-	readonly property int 		deckAColour:	10
-	readonly property int 		deckBColour:	10
-	readonly property int 		deckCColour:	2
-	readonly property int 		deckDColour:	2
-	readonly property int 		jogAColour:	10
-	readonly property int 		jogBColour:	10
-	readonly property int 		jogCColour:	2
-	readonly property int 		jogDColour:	2
+	readonly property int 		deckAColour:	8
+	readonly property int 		deckBColour:	14
+	readonly property int 		deckCColour:	7
+	readonly property int 		deckDColour:	13
+	readonly property int 		jogAColour:	8
+	readonly property int 		jogBColour:	14
+	readonly property int 		jogCColour:	7
+	readonly property int 		jogDColour:	13
 	
 	//1 = Red, 2 = Dark Orange, 3 = Light Orange, 4 = White, 5 = Yellow, 6 = Lime, 7 = Green, 8 = Mint, 9 = Cyan, 10 = Turquoise, 11 = Blue, 12 = Plum, 13 = Violet, 14 = Purple, 15 = Magenta, 16 = Fuchsia, 17 = Warm Yellow
 	readonly property int 		fx1Colour:	1
