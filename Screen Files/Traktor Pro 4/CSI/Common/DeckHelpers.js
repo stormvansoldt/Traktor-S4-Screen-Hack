@@ -5,14 +5,16 @@ function colorForDeck(deckIdx)
     switch (deckIdx)
     {
       case 1:
+        return Color.Cyan;
       case 2:
         // Deck A and B are color-coded in Blue
-        return Color.Blue;
+        return Color.Magenta;
 
       case 3:
+        return Color.Lime;
       case 4:
         // Deck C and D are color-coded in Orange
-        return Color.LightOrange;
+        return Color.Violet;
     }
 
     // Fall-through...
