@@ -39,14 +39,15 @@ Item {
     color: settings.enableLogo ? settings.backgroundColour : colors.defaultBackground
   }
   
-  Image {
+  //Image {
+  AnimatedImage {
     id: emptyTrackDeckImage
     anchors.fill:         parent
     anchors.bottomMargin: settings.bottom
     anchors.topMargin:    settings.top
     visible:              deckInfo.showLogo && settings.enableLogo
 
-    source:               "../../Images/logo.png"
+    source:               "../../Images/goldengoomba.gif"
     fillMode:             Image.PreserveAspectFit
   } 
   AppProperty { id: propStem1FXOn;	path: "app.traktor.decks.1.stems.1.fx_send_on" }
